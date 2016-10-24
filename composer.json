@@ -1,0 +1,13 @@
+{
+    "name": "umanit/jpgraph",
+    "description": "JpGraph fork, PHP 7 compatible",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "umanit",
+            "email": "contact@umanit.fr"
+        }
+    ],
+    "require": {}
+}
